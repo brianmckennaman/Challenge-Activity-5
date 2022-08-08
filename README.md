@@ -12,4 +12,4 @@ A link to the deployed application can be found here:
 https://brianmckennaman.github.io/Challenge-Activity-5/
 
 Here is a screenshot of the delployed application:
-(https://user-images.githubusercontent.com/107509704/183532126-a519eab0-687f-4649-a10f-9902018dfacc.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/107509704/183532445-8d257ee9-d4ee-47ce-80fc-eae4ff028ad3.png)
