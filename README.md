@@ -1,4 +1,4 @@
-# Challenge-Activity-5
+# Workday Scheduler Assignment
 
 The purpose of this activity was to add 3rd party API functionality to pre-existing code.
 
